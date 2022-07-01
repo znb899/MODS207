@@ -23,6 +23,3 @@ We focused on the [top 100 french channels](source.com). Some of these channels 
 | trendingTimes    | integer         | YouTube API                             |
 | trendingDuration | datetime        | YouTube API                             |
 | rawText          | string          | Youtube transcript API (python package) |
-
-## Data Vizualization
-
